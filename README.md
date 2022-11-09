@@ -2,3 +2,5 @@
 
 Assignment on Principal Component Analysis and Linear Discrementatal Analysis.
 Video Link : https://youtu.be/e_-7m4PVNgE
+Name : Sowjanya Sunkavalli
+ID : 700731896
